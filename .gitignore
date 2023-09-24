@@ -1,0 +1,7 @@
+__pycache__
+.venv/
+.vscode/
+docs/
+pics/
+statistics.db
+*.old
